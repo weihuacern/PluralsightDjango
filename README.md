@@ -3,4 +3,5 @@ https://app.pluralsight.com/library/courses/django-fundamentals-update/table-of-
 
 ```
 django-admin startproject tictactoe
+python manage.py runserver
 ```
